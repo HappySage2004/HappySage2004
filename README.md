@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **Langchain, Langchain, Quantization of Large Models to run on resource constrained systems**
+- 🌱 I’m currently learning **Langchain, LlamaIndex, RAG, Finetuning, Quantization of Large Models to run on resource constrained systems**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, Generative AI projects**
 
