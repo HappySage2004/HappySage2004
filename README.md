@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aaryan Awadh</h1>
 <h3 align="center">A Machine Learning and Artificial Intelligence enthusiast from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happysage2004" alt="happysage2004" /></a> </p>
-
 - 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **Langchain**
+- 🌱 I’m currently learning **Langchain, Langchain, Quantization of Large Models to run on resource constrained systems**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, Generative AI projects**
 
